@@ -34,9 +34,11 @@ p{
   border-color: paleturquoise;
   border-width: 03px;
 
-  background-color: violet;
-  margin-bottom: 100px;
+  background-color: rgb(180, 52, 180);
+  margin-bottom: 50px;
   margin-left: 100px;
+  margin-right: 400px;
+  
 
   background-image: url("../img/ponyo20.png");
   background-size: 500px 500px;
@@ -53,6 +55,7 @@ p{
     background-position: bottom right;
     margin-left: 400px;
     border: 30px solid aquamarine;
+    margin-right: 500px;
     
   }
 

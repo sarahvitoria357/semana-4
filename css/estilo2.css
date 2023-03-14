@@ -1,0 +1,19 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.conteudo {
+     display: flex;
+     flex-direction: row;
+     background-color: burlywood;
+
+}
+
+.card{
+    width: 250px;
+    height: 250px;
+    background-color: darkgoldenrod;
+    margin: 5px;
+}
